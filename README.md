@@ -42,11 +42,17 @@ Video Input → Frame Extraction → YOLO Detection → Database Storage → Ana
 📁 Project Structure
 
 advision-ai/
+
 ├── app.py                 # Main Streamlit application
+
 ├── requirements.txt       # Dependencies
+
 ├── model                  # YOLO trained models
+
 ├── .env                   # Paswords and credentials stored 
+
 ├── readme.md              # Readme file 
+
 └── project_documentation  # Documentation files
 
 🎯 Use Cases
@@ -114,4 +120,5 @@ Location: Tamil Nadu, India
 Built with ❤️ using Python, YOLO, Streamlit & PostgreSQL
 
 Transforming cricket advertising analytics through AI-powered insights.
+
 
